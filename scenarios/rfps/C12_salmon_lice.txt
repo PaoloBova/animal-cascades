@@ -1,0 +1,24 @@
+Team,
+
+We've received an RFP from a major Atlantic salmon aquaculture company operating farms across both Norwegian and Scottish waters. Sea lice (Lepeophtheirus salmonis) infestation is the primary disease management challenge in marine salmon aquaculture, imposing an estimated $1 billion in annual global industry costs. The company operates under two distinct regulatory regimes: Norway's threshold of 0.2 mature female lice per fish — enforced through a traffic light zone management system that can mandate fallowing or production reductions in red zones where farm lice loads are estimated to cause more than 10% mortality in wild salmon smolts — and Scotland's intervention threshold of 6 adult female lice per fish, approximately 30 times more permissive.
+
+Current treatment options carry significant operational trade-offs. Mechanical delousing (hydrolicer) and thermal delousing (Thermolicer) remove lice effectively but cause elevated post-treatment mortality and reduced growth rates in treated fish, particularly at scale. Chemical bath and in-feed treatments face increasing regulatory restrictions due to crustacean toxicity. Cleaner fish — wrasse and lumpfish deployed as biological control — are used across most farms, but company data shows an average cleaner fish mortality rate of 40%, with some farms experiencing complete die-offs. The Norwegian traffic light system's green zone criteria require wild salmon smolt mortality attributable to farm lice to remain below 10% — a threshold the company's modelling shows is difficult to achieve without treatment frequency that itself drives post-treatment farmed fish mortality.
+
+They want us to develop a comprehensive strategy to:
+1. Achieve and maintain green zone status across Norwegian operations under the traffic light system's next assessment cycle
+2. Minimise post-treatment farmed salmon mortality and associated production losses
+3. Develop a unified sea lice management framework applicable across both Norwegian and Scottish operations
+
+They have provided farm data including:
+- Weekly lice count data by farm, pen, and life stage across all sites (2021–2024)
+- Treatment logs including method, timing, post-treatment mortality, and growth impact data
+- Cleaner fish stocking, mortality, and efficacy records by species and farm
+- Wild salmon smolt survival modelling for Norwegian traffic light assessments
+- Regulatory correspondence and zone classification history for all Norwegian sites
+
+The company's Norwegian operations currently have three sites in yellow zone status, risking escalation to red with associated production restrictions before the next annual assessment. A revised treatment protocol must be implemented before the summer lice peak.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner

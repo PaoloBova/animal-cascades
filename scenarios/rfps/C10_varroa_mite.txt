@@ -1,0 +1,24 @@
+Team,
+
+We've received an RFP from the NSW Department of Primary Industries (DPI), the state agency leading Australia's emergency biosecurity response to the first confirmed detection of varroa mite (Varroa destructor) on Australian soil. The mite was detected at the Port of Newcastle in June 2022 and spread to 277 confirmed locations across New South Wales by September 2023. Over 30,000 managed European honeybee hives were euthanised in Red Zone exclusion areas during the 14-month eradication effort. The National Management Group declared in September 2023 that eradication was no longer achievable and transitioned the national response to a 'transition to management' phase, requiring all beekeepers to implement varroa monitoring and treatment rather than report and destroy.
+
+Experience from Europe, North America, and New Zealand — where the mite is endemic — indicates that untreated colonies collapse within two to four years of initial infestation. Australia's feral European honeybee population, estimated in the tens of millions of colonies, provides no veterinary treatment pathway; these populations are expected to decline by approximately 95% within three years of endemic establishment. Feral bees are a significant pollinator of both agricultural crops and native plant communities across the continent, particularly in areas beyond the range of managed hive services.
+
+They want us to develop a comprehensive strategy to:
+1. Slow the geographic spread of varroa mite across New South Wales and into adjacent states during the transition period
+2. Build industry capacity for ongoing mite management across the approximately 600,000 registered managed hives in Australia
+3. Quantify and plan for the pollination gap expected from feral bee population decline
+
+They have provided programme data including:
+- Detection location and date data for all 277 confirmed sites (June 2022–September 2023)
+- Hive euthanasia records and compensation payments by zone
+- NZ and UK varroa management programme data including treatment efficacy and cost
+- Feral bee population distribution modelling and pollination dependency mapping for key crop regions
+- Industry survey data on beekeeper capacity and treatment access by state
+
+The agency is managing simultaneous demands from the honey industry for compensation continuity, fruit and vegetable growers concerned about pollination security, and native plant ecologists tracking feral bee dependence in conservation zones. A state management plan must be submitted to the National Management Group within 60 days.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner

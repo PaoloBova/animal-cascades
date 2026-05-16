@@ -1,0 +1,24 @@
+Team,
+
+We've received an RFP from the Western Australian Department of Primary Industries and Regional Development, which oversees coastal safety and marine resource management. The state recorded seven fatal shark attacks on its coastline between 2010 and 2013, generating sustained political and public pressure for visible protective action. In response, the state government implemented an emergency drum line programme from January to September 2014 at a total cost of $1.28 million. Over the 14-week period, 172 sharks were caught and 50 were killed; none were great white sharks, which were the target species cited in the public safety rationale. The programme was not renewed following an adverse recommendation from the state's Environment Protection Authority.
+
+Since 2014, two non-lethal shark detection and deterrence technologies have reached operational maturity: aerial and drone-based surveillance systems capable of covering approximately 10 km² per flight, and eco-barrier enclosures for designated swimming areas. Both are now deployed at select WA beaches. The department's modelling attributes fatal attack risk primarily to encounters at unpatrolled sites and in low-visibility conditions — scenarios that drum lines at fixed locations do not address.
+
+They want us to develop a comprehensive strategy to:
+1. Reduce fatal shark attack risk to the lowest demonstrably achievable level at monitored coastal locations
+2. Satisfy public confidence requirements following a new fatality at a patrolled beach last season
+3. Maintain the state's compliance with obligations under the Environment Protection and Biodiversity Conservation Act
+
+They have provided programme data including:
+- Fatal and non-fatal attack incident data by location, season, and condition (2010–2024)
+- 2014 drum line programme operational data including catch composition and unit costs ($25,600 per shark killed)
+- Drone surveillance coverage statistics and deployment costs for the current WA programme
+- Eco-barrier installation and annual maintenance costs for three existing sites
+- Post-fatality public attitude survey data
+
+The department is operating under heightened political attention following the most recent fatality and requires a strategy that can withstand both public and scientific scrutiny within the current parliamentary session.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner

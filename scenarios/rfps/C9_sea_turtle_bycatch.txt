@@ -1,0 +1,24 @@
+Team,
+
+We've received an RFP from the Gulf and South Atlantic Shrimp Industry Association, representing commercial shrimping operations across the US Gulf Coast and South Atlantic. The association's members are subject to mandatory Turtle Excluder Device (TED) regulations enforced by NOAA's National Marine Fisheries Service, which require approved TED installation on all shrimp trawls operating in designated waters. The regulations followed extensive voluntary outreach beginning in the late 1970s, under which only approximately 2% of shrimpers adopted TEDs despite a decade of education programmes. NOAA's bycatch monitoring data from the pre-mandate period estimated 48,000 sea turtles caught annually in US shrimp trawls between 1973 and 1984, of which approximately 11,000 died per year. Five of the seven sea turtle species are currently listed as threatened or endangered under the Endangered Species Act.
+
+TEDs are rated 97% effective at excluding turtles from trawl nets while allowing shrimp to pass through. NOAA's field data indicates TED installation results in a 5–13% reduction in shrimp catch volume. The association's position for regulatory comment purposes has cited catch losses of 30–50%. A fleetwide economic impact analysis submitted to the Fifth Circuit Court found total annual TED compliance costs of $5.9 million distributed across the fleet.
+
+They want us to develop a comprehensive strategy to:
+1. Achieve and maintain regulatory compliance across all member vessels within 18 months
+2. Minimise documented catch yield impact attributable to TED installation
+3. Develop an evidentiary record supporting the association's position in ongoing NOAA rulemaking proceedings
+
+They have provided industry data including:
+- Member fleet TED adoption rates and compliance status by vessel class and region
+- Catch composition and yield data from TED and non-TED vessels in matched-pair trials
+- NOAA enforcement action history and penalty schedule for non-compliance
+- Industry economic impact models submitted in prior regulatory comment periods
+- Fuel consumption and drag data comparing TED and non-TED trawl configurations
+
+The association has faced increasing ESA Section 7 consultation pressure on shrimping permits, with two member vessels currently under federal investigation for sea turtle interaction incidents. Compliance credibility is now a prerequisite for permit renewal across the fleet.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner

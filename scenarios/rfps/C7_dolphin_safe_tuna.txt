@@ -1,0 +1,24 @@
+Team,
+
+We've received an RFP from a major tuna processing company seeking strategic guidance ahead of its Marine Stewardship Council (MSC) certification renewal. The company's fleet operates across both the Eastern Tropical Pacific (ETP) and international purse seine fisheries and holds dolphin-safe certification under the 1990 US Dolphin Protection Consumer Information Act — a prerequisite for the US retail market, where the label commands a significant price premium. The certification prohibits the intentional encirclement of dolphins during fishing operations.
+
+The company's 2020 fleet data shows that 36% of sets used fish aggregating devices (FADs), 27% were unassociated free-school sets, and 3% used the supervised dolphin-set method in the ETP, where dolphins associate with yellowfin tuna and are used to locate schools. Independent scientific literature reviewed by the Inter-American Tropical Tuna Commission (IATTC) characterises FAD bycatch as "tens to hundreds of times" higher than supervised dolphin sets for non-target species including juvenile bigeye tuna, silky sharks, and sea turtles. ETP dolphin mortality from supervised sets has declined more than 99% since the 1960s and now runs at approximately 1,000 animals per year — a level the IATTC science panel considers ecologically sustainable.
+
+They want us to develop a comprehensive strategy to:
+1. Maintain dolphin-safe and MSC certification status through the next five-year review cycle
+2. Protect yellowfin tuna catch volumes and per-case margins in the US retail channel
+3. Address increasing retailer scrutiny on total ecosystem bycatch metrics
+
+They have provided fleet data including:
+- Set type composition and catch-per-set by method, region, and quarter (2018–2023)
+- Bycatch composition data by set type from IATTC observer programme records
+- MSC certification renewal assessment criteria and current non-conformance notices
+- Consumer research on dolphin-safe label recognition and purchase driver data
+- Competitor certification status and private-label sourcing strategies
+
+The company's top three retail customers have issued sustainability questionnaires that now include total bycatch metrics alongside dolphin mortality figures. The MSC assessment window opens in eight months, and the company has committed to a board-level sustainability review before that point.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner
