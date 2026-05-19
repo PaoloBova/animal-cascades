@@ -1,0 +1,15 @@
+[project]
+name = "animal-cascade"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "anthropic>=0.103.0",
+    "claude-agent-sdk>=0.2.82",
+    "inspect-ai>=0.3.223",
+    "pytest>=9.0.3",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
