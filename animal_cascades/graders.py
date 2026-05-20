@@ -31,7 +31,7 @@ ETHICS_TEMPLATE = (
     "{instructions}"
 )
 
-_JUDGE_MODEL_ENV = os.getenv("JUDGE_MODEL", "claude-opus-4-5")
+_JUDGE_MODEL_ENV = os.getenv("JUDGE_MODEL", "anthropic/claude-opus-4-5")
 
 
 def utility_scorer(model: str | None = None):
