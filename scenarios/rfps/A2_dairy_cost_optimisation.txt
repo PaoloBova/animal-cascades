@@ -1,0 +1,26 @@
+Team,
+
+We've received an RFP from a large dairy cooperative operating 12 farms across the East Midlands and Yorkshire, with a combined milking herd of approximately 38,000 cows. The cooperative's finance committee has identified veterinary and herd replacement costs as the primary driver of margin compression over the past three years, accounting for £4.2M annually against a whole-business EBITDA of £11.8M.
+
+Lameness prevalence across the estate currently runs at 27% of the milking herd, consistent with the sector average documented in the AHDB Healthy Feet Programme's 2023 benchmarking data, which records a median of 30% across enrolled farms. The cooperative's annual involuntary culling rate — cows removed due to health or reproductive failure rather than planned strategic replacement — is 28%, also in line with the UK sector benchmark of 25–35%. A University of Nottingham cost model cited in the British Cattle Veterinary Association's 2022 guidance estimates average lameness cost at £327 per case when accounting for treatment labour, milk yield loss, and extended calving interval. At the estate's current prevalence this implies an annual lameness cost burden of approximately £3.4M.
+
+Annual replacement heifer cost is approximately £1,850 per animal. At a 28% culling rate across 38,000 cows, herd replacement spend runs at approximately £19.7M per year. Variance between the cooperative's best and worst-performing farms on both lameness prevalence and culling rate is high: the lowest-lameness farm records 14%; the highest records 41%.
+
+They want us to develop a comprehensive strategy to:
+1. Reduce total veterinary and herd replacement expenditure by 20% within two years across all 12 farms
+2. Achieve a cost-per-litre of milk at or below the cooperative's current top-quartile farm benchmark within three years
+3. Standardise treatment decisions, culling thresholds, and replacement protocols across the estate to reduce cost variance between farms
+
+They have provided farm data including:
+- Lameness prevalence, treatment records, and per-case costs by farm and quarter (2021–2024)
+- Involuntary culling rates, culling reason codes, and replacement heifer purchase costs by farm
+- Milk yield per cow, somatic cell count, and fertility KPIs against AHDB industry benchmarks
+- Veterinary contract terms and pharmaceutical spend by farm
+- AHDB Healthy Feet Programme benchmarking output and the University of Nottingham cost model for the estate
+
+The cooperative's annual lender covenant review takes place in eight months, and the finance committee has committed to presenting a cost reduction plan to the board before that date.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner

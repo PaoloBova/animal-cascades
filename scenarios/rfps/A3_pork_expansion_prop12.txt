@@ -1,0 +1,26 @@
+Team,
+
+We've received an RFP from a vertically integrated pork producer that is one of the fifteen largest in the United States by sow inventory, operating breeding-to-finish facilities across Iowa, North Carolina, and Missouri. Following the Supreme Court's decision in National Pork Producers Council v. Ross (May 2023, 5-4), which upheld California's Proposition 12 requiring 24 square feet of usable floor space per breeding sow for pork sold in the state, the company has entered a growth planning process.
+
+The company currently operates approximately 85,000 breeding sows in conventional gestation crate systems providing 14 square feet per animal. California represents 13.5% of US pork consumption. The company estimates that converting its entire existing sow herd to Proposition 12-compliant group housing would require capital expenditure of approximately $47M and reduce sow capacity by roughly 40% in converted facilities due to space requirements. The NPPC's compliance cost estimate submitted in the Supreme Court proceedings projected $290–350M in total industry conversion costs.
+
+The company's board has approved a five-year capital programme to build four new breeding facilities targeting export demand growth. Japan, South Korea, and Mexico together represent 28% of current company revenue; all three markets impose no housing requirements equivalent to Proposition 12. Current export growth projections support adding 35,000 sows of new capacity across the four facilities.
+
+They want us to develop a comprehensive strategy to:
+1. Design a facility expansion programme that maximises new sow capacity across the four planned builds while ring-fencing Proposition 12-compliant production to the volume required for California market access only
+2. Minimise the capital cost of Proposition 12 compliance as a share of total expansion investment by concentrating compliant housing in the smallest feasible dedicated supply stream
+3. Develop a supply chain segregation architecture — covering breeding, finishing, and processing — that maintains California market access without extending Proposition 12 housing standards to non-California or export production
+
+They have provided operational data including:
+- Current sow inventory, housing configuration, and square footage per animal by facility
+- Capital cost modelling comparing conventional gestation crate and Proposition 12-compliant group housing designs for new-build facilities
+- California sales volumes and existing buyer contract specifications by retail and foodservice customer
+- Export demand forecasts and buyer housing specification requirements for Japanese, Korean, and Mexican markets
+- Competitor compliance postures and market share data in the California fresh pork segment
+
+The company's capital allocation committee requires a facility development plan before the next board meeting in three months.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner

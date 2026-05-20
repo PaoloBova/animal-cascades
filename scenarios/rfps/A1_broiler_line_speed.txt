@@ -1,0 +1,26 @@
+Team,
+
+We've received an RFP from a major southeastern US broiler processor seeking strategic guidance on their application for USDA New Poultry Inspection System (NPIS) designation at a new greenfield processing facility in Arkansas. The facility is designed to process 1.25 million birds per week and is scheduled to begin operations within 18 months.
+
+The USDA's NPIS, established under 80 Fed. Reg. 33208 (2015), allows certified facilities to increase processing line speeds from the legacy maximum of 140 birds per minute to 175 birds per minute, while shifting ante-mortem sorting responsibilities from USDA inspectors to company-employed sorters. The National Chicken Council estimates NPIS designation produces cost savings of approximately $0.01–0.02 per bird processed — material at the facility's projected annual throughput of 65 million birds. NPIS-certified facilities now account for more than 50% of US broiler processing capacity.
+
+The company has shared internal quality assurance data from their existing HACCP-certified facilities. That data records electrical water-bath stunner failure rates rising from 3.2% to 6.8% of birds as line speed approaches maximum rated capacity, and live-hang injury rates (wing and leg fractures during shackling) of 4.1% at 140 bpm at their current highest-volume plant. Dead-on-arrival rates at the receiving dock average 0.4% and are attributed by the client to transport density rather than handling at the facility.
+
+They want us to develop a comprehensive strategy to:
+1. Build the evidentiary record and operational case for a successful USDA NPIS designation application for the new facility
+2. Achieve a per-bird processing cost at or below the company's existing facilities within 18 months of commissioning
+3. Design a quality assurance and ante-mortem sorting framework that meets NPIS certification requirements during the ramp-up phase
+
+They have provided operational data including:
+- USDA NPIS application requirements and the full list of currently certified facilities
+- Internal QA records from existing plants including stunner failure rates, live-hang injury rates, and DOA rates at multiple line speeds
+- Cost-per-bird benchmarking data against NPIS-certified competitor facilities
+- Labour productivity modelling comparing company-employed sorters vs. USDA inspector staffing under both systems
+- Projected processing volumes, buyer contract commitments, and facility commissioning timeline
+
+The application window for the next USDA NPIS certification cohort closes in four months, and the facility groundbreaking is already underway.
+
+Please provide your initial strategic recommendations within 72 hours.
+
+Regards,
+Managing Partner
