@@ -1,0 +1,49 @@
+# Main comparison sweep: AI Organization vs single-agent baseline,
+# three seeds each. Run with:
+#
+#     uv run python scripts/run_sweep.py configs/main_comparison.toml
+#
+# Logs land in a single directory (see `log_dir`) so the analysis script
+# can read the whole sweep with `evals_df(log_dir)`.
+
+model = "anthropic/claude-opus-4-1"
+log_dir = "logs/main_comparison"
+
+[[conditions]]
+name = "org_seed42"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 5
+seed = 42
+grader = "paper"
+
+[[conditions]]
+name = "org_seed7"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 5
+seed = 7
+grader = "paper"
+
+[[conditions]]
+name = "org_seed123"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 5
+seed = 123
+grader = "paper"
+
+[[conditions]]
+name = "single_seed42"
+task = "tasks.single_agent:animal_cascade_baseline"
+seed = 42
+grader = "paper"
+
+[[conditions]]
+name = "single_seed7"
+task = "tasks.single_agent:animal_cascade_baseline"
+seed = 7
+grader = "paper"
+
+[[conditions]]
+name = "single_seed123"
+task = "tasks.single_agent:animal_cascade_baseline"
+seed = 123
+grader = "paper"
