@@ -1,5 +1,16 @@
-# Research papers (kept locally, not distributed via git)
+# Research papers and extracted text (kept locally, not distributed via git)
 AI_Organizations_More_Effective_Less_Aligned.pdf
+paper.txt
+
+# Local research artifacts and scratch notes
+blog_post.md
+multi_agent_architecture.md
+presentation/
+image*.png
+
+# Generated outputs
+figures/
+logs/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
