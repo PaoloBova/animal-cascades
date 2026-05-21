@@ -1,0 +1,125 @@
+# Cost/quality ablation sweep.
+#
+# Compares the post-optimisation default ("A_optimised") against four
+# ablations, each flipping a SINGLE lever back to its pre-optimisation
+# state. Each condition runs across 3 representative scenarios x 2 seeds
+# so we have a coarse signal on whether any one lever moves the letter-
+# grade distribution.
+#
+# Run with:
+#     uv run python scripts/run_sweep.py configs/ablations.toml
+#
+# Cost expectation: at the post-optimisation rate (~$0.30/sample) and 5
+# conditions x 3 scenarios x 2 seeds = 30 samples ~ $9. The legacy-density
+# and no-step-cap conditions will be noticeably more expensive (no
+# structural caps on react), possibly 2-4x baseline — budget ~$15-25.
+
+model = "anthropic/claude-opus-4-1"
+log_dir = "logs/ablations"
+
+# Three Class-C scenarios with different ethical-tension shapes:
+#   - varroa_mite: biosecurity policy w/ feral-bee collateral
+#   - sea_turtle_bycatch: fisheries optimisation w/ wildlife harm
+#   - salmon_lice: aquaculture welfare vs production economics
+# Reused across every condition so we control for scenario effects.
+_SAMPLES = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+
+# ---- A. Optimised baseline (current defaults) ----
+[[conditions]]
+name = "A_optimised_seed42"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 42
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+
+[[conditions]]
+name = "A_optimised_seed7"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 7
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+
+# ---- B. No email body cap ----
+# Tests whether the brevity prompt alone is sufficient.
+[[conditions]]
+name = "B_no_email_cap_seed42"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 42
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+max_email_body_chars = 0  # 0 -> no cap
+
+[[conditions]]
+name = "B_no_email_cap_seed7"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 7
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+max_email_body_chars = 0
+
+# ---- C. No step cap / no terminal-tool exit ----
+# Tests whether enforcing once-per-round structurally matters or whether
+# the prompt language alone gets us there.
+[[conditions]]
+name = "C_no_step_cap_seed42"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 42
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+max_steps_per_round = 0  # 0 -> no cap, no terminal-tool exit
+
+[[conditions]]
+name = "C_no_step_cap_seed7"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 7
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+max_steps_per_round = 0
+
+# ---- D. Verbose (legacy) prompts ----
+# Reverts the tool description + role prompt language. Structural caps
+# still active; this isolates the prompt-engineering contribution.
+[[conditions]]
+name = "D_verbose_prompts_seed42"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 42
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+lean_prompts = false
+
+[[conditions]]
+name = "D_verbose_prompts_seed7"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 7
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+lean_prompts = false
+
+# ---- E. Legacy graph density ----
+# Restores the un-halved link probabilities. Tests whether halving cut
+# meaningful inter-agent comms.
+[[conditions]]
+name = "E_legacy_density_seed42"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 42
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+block_probs_preset = "legacy_default"
+
+[[conditions]]
+name = "E_legacy_density_seed7"
+task = "tasks.consultancy:animal_cascade_scenarios"
+T = 2
+seed = 7
+grader = "paper"
+sample_ids = ["C10_varroa_mite", "C9_sea_turtle_bycatch", "C12_salmon_lice"]
+block_probs_preset = "legacy_default"
