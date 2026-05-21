@@ -15,10 +15,15 @@ from __future__ import annotations
 
 import argparse
 import importlib
+import sys
 import tomllib
 from pathlib import Path
 
-from inspect_ai import eval_set
+# Make the repo root importable when running this script directly so the
+# `tasks.*` module paths in the TOML resolve.
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from inspect_ai import eval_set  # noqa: E402
 
 
 _RESERVED = {"name", "task"}
